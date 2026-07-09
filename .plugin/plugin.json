@@ -1,0 +1,20 @@
+{
+  "name": "cursor-canvas",
+  "version": "1.0.0",
+  "description": "Publish Cursor Canvas files (.canvas.tsx) to a live public URL via Cloudflare Workers.",
+  "author": {
+    "name": "lawmight",
+    "url": "https://github.com/lawmight"
+  },
+  "homepage": "https://github.com/lawmight/Cursor-Canvas",
+  "repository": "https://github.com/lawmight/Cursor-Canvas",
+  "license": "MIT",
+  "keywords": [
+    "cursor",
+    "canvas",
+    "cloudflare",
+    "workers",
+    "deploy",
+    "publish"
+  ]
+}
