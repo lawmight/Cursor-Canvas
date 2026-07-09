@@ -1,0 +1,9 @@
+{
+  // Assets-only Worker: serves the built canvas as a static site.
+  // The publish script overrides `name` per canvas via --name.
+  "name": "cursor-canvas",
+  "compatibility_date": "2026-06-01",
+  "assets": {
+    "directory": "./dist"
+  }
+}
