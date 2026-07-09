@@ -7,6 +7,7 @@ description: >-
   Builds the canvas with an open-source cursor/canvas shim and deploys it to
   Cloudflare Workers — using `wrangler deploy --temporary` when no Cloudflare
   credentials are available, which requires no account or API key.
+  Open Plugin skill: cursor-canvas:publish-canvas
 ---
 
 # Publish Canvas
